@@ -1,0 +1,15 @@
+{
+  "name": "csv_from_json_and_gcsql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node dataExtract.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harishanand.thiru.kumareshan@ingka.ikea.com",
+  "license": "ISC",
+  "dependencies": {
+    "promise-mysql": "^5.0.3"
+  }
+}

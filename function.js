@@ -1,0 +1,1 @@
+exports.csvGen = require('./dataExtract');
